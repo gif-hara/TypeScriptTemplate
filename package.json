@@ -1,0 +1,24 @@
+{
+  "name": "TypeScript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.24.4",
+    "del": "^3.0.0",
+    "glup": "^1.0.14",
+    "gulp": "^3.9.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-typescript": "^4.0.2",
+    "typescript": "^2.8.3"
+  },
+  "dependencies": {
+    "glup": "^1.0.14",
+    "gulp-typescript": "^4.0.2"
+  },
+  "description": ""
+}
